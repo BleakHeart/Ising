@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# exclue videos 
+
+*.mp4
+/Videos/*
+/Prova/*
+.hystory/*.*
+*.npz
